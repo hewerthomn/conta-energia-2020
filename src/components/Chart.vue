@@ -44,7 +44,7 @@ export default {
     return {
       chartOptions: {
         chart: { zoomType: "xy" },
-        title: { text: "Boletos de Energia - 2020" },
+        title: { text: "Conta de Energia - 2020" },
         xAxis: [
           {
             categories: myData.months,
